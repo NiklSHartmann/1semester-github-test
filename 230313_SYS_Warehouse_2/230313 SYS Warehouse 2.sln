@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "230313 SYS Warehouse 2", "230313 SYS Warehouse 2\230313 SYS Warehouse 2.csproj", "{932A59DB-B858-4D2E-8F16-89A617DBCB5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionDatabase", "SessionDatabase\SessionDatabase.csproj", "{83179368-A344-49F3-8EFF-E8888771B69F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{932A59DB-B858-4D2E-8F16-89A617DBCB5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932A59DB-B858-4D2E-8F16-89A617DBCB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932A59DB-B858-4D2E-8F16-89A617DBCB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932A59DB-B858-4D2E-8F16-89A617DBCB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83179368-A344-49F3-8EFF-E8888771B69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83179368-A344-49F3-8EFF-E8888771B69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83179368-A344-49F3-8EFF-E8888771B69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83179368-A344-49F3-8EFF-E8888771B69F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1192B5B-D244-4A64-8754-AC6882E2E7C7}
+	EndGlobalSection
+EndGlobal

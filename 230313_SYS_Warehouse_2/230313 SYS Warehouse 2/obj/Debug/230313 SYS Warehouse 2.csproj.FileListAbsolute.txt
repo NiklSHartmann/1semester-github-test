@@ -1,0 +1,16 @@
+C:\Users\impe53002\source\repos\230313 SYS Warehouse 2\230313 SYS Warehouse 2\obj\Debug\230313 SYS Warehouse 2.csproj.AssemblyReference.cache
+C:\Users\impe53002\source\repos\230313 SYS Warehouse 2\230313 SYS Warehouse 2\obj\Debug\230313 SYS Warehouse 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\impe53002\source\repos\230313 SYS Warehouse 2\230313 SYS Warehouse 2\obj\Debug\230313 SYS Warehouse 2.csproj.CoreCompileInputs.cache
+C:\Users\impe53002\source\repos\230313 SYS Warehouse 2\230313 SYS Warehouse 2\bin\Debug\230313 SYS Warehouse 2.exe.config
+C:\Users\impe53002\source\repos\230313 SYS Warehouse 2\230313 SYS Warehouse 2\bin\Debug\230313 SYS Warehouse 2.exe
+C:\Users\impe53002\source\repos\230313 SYS Warehouse 2\230313 SYS Warehouse 2\bin\Debug\230313 SYS Warehouse 2.pdb
+C:\Users\impe53002\source\repos\230313 SYS Warehouse 2\230313 SYS Warehouse 2\obj\Debug\230313 SYS Warehouse 2.exe
+C:\Users\impe53002\source\repos\230313 SYS Warehouse 2\230313 SYS Warehouse 2\obj\Debug\230313 SYS Warehouse 2.pdb
+C:\Users\Katan\OneDrive\Desktop\Studie\1. semester\PROG DM SYS\mine programmer\230313_SYS_Warehouse_2\230313 SYS Warehouse 2\bin\Debug\230313 SYS Warehouse 2.exe.config
+C:\Users\Katan\OneDrive\Desktop\Studie\1. semester\PROG DM SYS\mine programmer\230313_SYS_Warehouse_2\230313 SYS Warehouse 2\bin\Debug\230313 SYS Warehouse 2.exe
+C:\Users\Katan\OneDrive\Desktop\Studie\1. semester\PROG DM SYS\mine programmer\230313_SYS_Warehouse_2\230313 SYS Warehouse 2\bin\Debug\230313 SYS Warehouse 2.pdb
+C:\Users\Katan\OneDrive\Desktop\Studie\1. semester\PROG DM SYS\mine programmer\230313_SYS_Warehouse_2\230313 SYS Warehouse 2\obj\Debug\230313 SYS Warehouse 2.csproj.AssemblyReference.cache
+C:\Users\Katan\OneDrive\Desktop\Studie\1. semester\PROG DM SYS\mine programmer\230313_SYS_Warehouse_2\230313 SYS Warehouse 2\obj\Debug\230313 SYS Warehouse 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katan\OneDrive\Desktop\Studie\1. semester\PROG DM SYS\mine programmer\230313_SYS_Warehouse_2\230313 SYS Warehouse 2\obj\Debug\230313 SYS Warehouse 2.csproj.CoreCompileInputs.cache
+C:\Users\Katan\OneDrive\Desktop\Studie\1. semester\PROG DM SYS\mine programmer\230313_SYS_Warehouse_2\230313 SYS Warehouse 2\obj\Debug\230313 SYS Warehouse 2.exe
+C:\Users\Katan\OneDrive\Desktop\Studie\1. semester\PROG DM SYS\mine programmer\230313_SYS_Warehouse_2\230313 SYS Warehouse 2\obj\Debug\230313 SYS Warehouse 2.pdb
